@@ -1,6 +1,6 @@
 document.write("03_const.js is linked")
 // 1. declare the variable z using const and assign it the value 6
-
+const z = 6;
 // 2.  use a console.log statement to log the value of z to the console.  Paste a snip of the page and the console log in your lab document.
 
 // 3.  redeclare z using const and assign it the value 3.  Refresh your browser and note what happens.  Copy a picture of your page and the console log into your lab document. 
